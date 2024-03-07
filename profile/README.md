@@ -5,4 +5,4 @@ Synapse is a new online marketplace that connects journalists and PR professiona
 Journalists save time by only receiving relevant pitches.
 PR professionals can build relationships with journalist.
 
-Website: [Synapse.media](https://synapse.media)
+Our Website: [Synapse.media](https://synapse.media)
